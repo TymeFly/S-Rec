@@ -1,4 +1,4 @@
-package me.tymefly.srec;
+package com.github.tymefly.srec;
 
 import java.io.BufferedWriter;
 import java.io.File;

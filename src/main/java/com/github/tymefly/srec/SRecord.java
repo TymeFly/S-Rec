@@ -1,4 +1,4 @@
-package me.tymefly.srec;
+package com.github.tymefly.srec;
 
 import java.util.Map;
 import java.util.stream.Collectors;
